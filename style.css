@@ -1,0 +1,11 @@
+#container{
+    border: dotted;
+    color: blueviolet;
+}
+    #text{
+    border: solid; 
+    padding: 20px;
+    margin: 5%;
+    color: black;
+    
+}
